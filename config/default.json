@@ -1,0 +1,5 @@
+{
+    "dbUrl": "mongodb+srv://nhutthien:Thien@69@cluster0.mf7b3.mongodb.net/HextraDB?retryWrites=true&w=majority",
+    "PORT" : 3000,
+    "Signature": "Hextrajwt"
+}
